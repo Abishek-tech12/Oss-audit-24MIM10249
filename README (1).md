@@ -1,7 +1,7 @@
 Open Source Audit — VLC Media Player
 
-Student Name: Rajkumar S
-Registration Number: 24BCE10447
+Student Name: ABISHEK P
+Registration Number: 24MIM10249
 
 ---
 
@@ -115,4 +115,4 @@ It also helped me understand the importance of open-source software and how tool
 
 ---
 
-Implemented by Rajkumar S
+Implemented by ABISHEK P
